@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/andre-deveau/ICS20-PWA-Template)](https://repl.it/github/andre-deveau/ICS20-PWA-Template)
 
-This site can be found at: [https://andre-deveau/ICS20-PWA-Template/](https://andre-deveau/ICS20-PWA-Template/)
+This site can be found at: [https://andre-deveau.github.io/ICS20-PWA-Template/](https://andre-deveau/ICS20-PWA-Template/)
